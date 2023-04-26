@@ -17,7 +17,7 @@ This game allows you to add multiple PacMen to the screen, which will move rando
 
 Clone the repo
    
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/OneCleverFox/Pacman_Excercise.git
    
 Open `index.html` in your web browser
 
